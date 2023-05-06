@@ -9,6 +9,9 @@ function Background() {
         <div className="App-bg">
             <SideBar />
             <div>
+                <JobWindow />
+                <Education />
+                <SkillWindow />
                 <h1>MY OBJECTIVE:</h1>
                 <p>
                     My name is Uzezi Hector Atto, and this is my Resume Webpage!<br/><br/>
@@ -41,9 +44,6 @@ function Background() {
 
                     U. Hector Atto
                 </p>
-                <JobWindow />
-                <Education />
-                <SkillWindow />
             </div>
         </div>
     )
