@@ -8,7 +8,7 @@ function Background() {
     return (
         <div className="App-bg">
             <SideBar />
-            <div>
+            <div className="App-bg-border">
                 <JobWindow />
                 <Education />
                 <SkillWindow />
