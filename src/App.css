@@ -1,3 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(194, 194, 194);
+}
+
 .App {
   display: block;
   text-align: center;
