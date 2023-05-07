@@ -203,7 +203,7 @@ li {
 
 @media screen and (min-width: 320px) and (max-width: 959px) {
   .App-bg {
-    height: 900px;
+    height: 1500px;
   }
 
   .App-sidebar {
