@@ -6,7 +6,7 @@ class Header extends Component {
             <div className="App-header">
                 <h1>RESUME WEBPAGE</h1>
                 <h5>
-                    By: Uzezi Hector Atto | Email: uzezihectoratto@gmail.com | Phone: 647-297-6693
+                    By: Uzezi Hector Atto | Email: uzezihectoratto@gmail.com
                 </h5>
             </div>
         )
