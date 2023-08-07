@@ -26,7 +26,7 @@ html {
 .App-header {
   display: flex;
   flex-direction: column;
-  background-color: #036100;
+  background-color: #0003c0;
   min-height: 50px;
   height: 100%;
   display: flex;
@@ -78,7 +78,7 @@ html {
 }
 
 .App-sidebar {
-  background-color: #020002;
+  background-color: #300030;
   min-width: 45%;
   width: 175px;
   height: 100%;
@@ -102,7 +102,7 @@ html {
 
 .App-sidebar > h4:hover {
   text-decoration: underline;
-  color: rgb(122, 0, 0);
+  color: rgb(0, 122, 102);
   cursor: pointer;
 }
 

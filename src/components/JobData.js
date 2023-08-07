@@ -77,6 +77,12 @@ export const getEducation = () => [
     date: '09/2013 - 04/2016',
     program: 'Architectural Technology',
     document: 'Advanced Diploma'
+    },
+    {id: 2,
+        school: 'Cardinal Ambrozic Catholic Secondary School',
+        date: '09/2009 - 06/2013',
+        program: ' ',
+        document: 'High School Diploma'
     }
 ]
 
